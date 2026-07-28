@@ -9,7 +9,7 @@
             "X-Apptweak-Key: ${APPTWEAK_API_KEY}"
           ],
           "env": {
-            "APPTWEAK_API_KEY": "YOUR-API-TOKEN"
+            "APPTWEAK_API_KEY": "0_AZe1-x9Qg9by3riOSGW4E0IIM"
           }
         }
       }
